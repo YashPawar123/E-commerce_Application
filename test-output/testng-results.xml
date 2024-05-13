@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="5" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-05-13T12:59:12 IST" name="Suite" finished-at="2024-05-13T13:01:01 IST" duration-ms="109470">
+    <groups>
+    </groups>
+    <test started-at="2024-05-13T12:59:12 IST" name="Test" finished-at="2024-05-13T13:01:01 IST" duration-ms="109470">
+      <class name="com.ecommerce.test.TC_04_validationofaddtocart">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:com.ecommerce.test.TC_04_validationofaddtocart@73a1e9a9]" started-at="2024-05-13T12:59:12 IST" name="setUpSuite" finished-at="2024-05-13T12:59:12 IST" duration-ms="11" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecommerce.test.TC_04_validationofaddtocart@73a1e9a9]" started-at="2024-05-13T12:59:12 IST" name="setUp" finished-at="2024-05-13T12:59:22 IST" duration-ms="10519" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validationofaddtocart()[pri:0, instance:com.ecommerce.test.TC_04_validationofaddtocart@73a1e9a9]" started-at="2024-05-13T12:59:22 IST" name="validationofaddtocart" finished-at="2024-05-13T13:00:42 IST" duration-ms="79486" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationofaddtocart -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.test.TC_04_validationofaddtocart@73a1e9a9]" started-at="2024-05-13T13:00:42 IST" name="tearDown" finished-at="2024-05-13T13:00:48 IST" duration-ms="5740" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.test.TC_04_validationofaddtocart -->
+      <class name="com.ecommerce.test.TC_02_validationofSearchproduct">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecommerce.test.TC_02_validationofSearchproduct@78691363]" started-at="2024-05-13T12:59:12 IST" name="setUp" finished-at="2024-05-13T12:59:20 IST" duration-ms="8507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="searchproduct()[pri:0, instance:com.ecommerce.test.TC_02_validationofSearchproduct@78691363]" started-at="2024-05-13T12:59:20 IST" name="searchproduct" finished-at="2024-05-13T12:59:57 IST" duration-ms="36167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchproduct -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.test.TC_02_validationofSearchproduct@78691363]" started-at="2024-05-13T12:59:57 IST" name="tearDown" finished-at="2024-05-13T13:00:28 IST" duration-ms="30940" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.test.TC_02_validationofSearchproduct -->
+      <class name="com.ecommerce.test.TC_06_validationofaddresspage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecommerce.test.TC_06_validationofaddresspage@3590fc5b]" started-at="2024-05-13T12:59:12 IST" name="setUp" finished-at="2024-05-13T12:59:26 IST" duration-ms="14194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addresspage()[pri:0, instance:com.ecommerce.test.TC_06_validationofaddresspage@3590fc5b]" started-at="2024-05-13T12:59:26 IST" name="addresspage" finished-at="2024-05-13T13:00:19 IST" duration-ms="52412" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addresspage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.test.TC_06_validationofaddresspage@3590fc5b]" started-at="2024-05-13T13:00:19 IST" name="tearDown" finished-at="2024-05-13T13:00:27 IST" duration-ms="8592" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.test.TC_06_validationofaddresspage -->
+      <class name="com.ecommerce.test.TC_01_LoginPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecommerce.test.TC_01_LoginPage@41d477ed]" started-at="2024-05-13T12:59:12 IST" name="setUp" finished-at="2024-05-13T12:59:20 IST" duration-ms="8465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="validationofsignin_1()[pri:0, instance:com.ecommerce.test.TC_01_LoginPage@41d477ed]" started-at="2024-05-13T12:59:20 IST" name="validationofsignin_1" finished-at="2024-05-13T12:59:38 IST" duration-ms="17508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validationofsignin_1 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.test.TC_01_LoginPage@41d477ed]" started-at="2024-05-13T12:59:38 IST" name="tearDown" finished-at="2024-05-13T13:00:19 IST" duration-ms="41287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.test.TC_01_LoginPage -->
+      <class name="com.ecommerce.test.TC_05_proceedtocheckoutpage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecommerce.test.TC_05_proceedtocheckoutpage@397fbdb]" started-at="2024-05-13T12:59:12 IST" name="setUp" finished-at="2024-05-13T12:59:19 IST" duration-ms="7373" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="proceedtocheckoutpage()[pri:0, instance:com.ecommerce.test.TC_05_proceedtocheckoutpage@397fbdb]" started-at="2024-05-13T12:59:19 IST" name="proceedtocheckoutpage" finished-at="2024-05-13T13:00:44 IST" duration-ms="84913" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- proceedtocheckoutpage -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.test.TC_05_proceedtocheckoutpage@397fbdb]" started-at="2024-05-13T13:00:44 IST" name="tearDown" finished-at="2024-05-13T13:00:48 IST" duration-ms="3343" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.test.TC_05_proceedtocheckoutpage -->
+      <class name="com.ecommerce.test.TC_03_search_product_select1auto">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ecommerce.test.TC_03_search_product_select1auto@33d512c1]" started-at="2024-05-13T13:00:19 IST" name="setUp" finished-at="2024-05-13T13:00:26 IST" duration-ms="6612" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="search1stauto()[pri:0, instance:com.ecommerce.test.TC_03_search_product_select1auto@33d512c1]" started-at="2024-05-13T13:00:26 IST" name="search1stauto" finished-at="2024-05-13T13:01:01 IST" duration-ms="34727" status="FAIL">
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index 1 out of bounds for length 0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index 1 out of bounds for length 0
+at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:100)
+at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:106)
+at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:302)
+at java.base/java.util.Objects.checkIndex(Objects.java:359)
+at java.base/java.util.ArrayList.get(ArrayList.java:427)
+at com.ecommerce.test.TC_03_search_product_select1auto.search1stauto(TC_03_search_product_select1auto.java:30)
+at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+at java.base/java.lang.reflect.Method.invoke(Method.java:577)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:664)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:227)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:957)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:200)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- search1stauto -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ecommerce.test.TC_03_search_product_select1auto@33d512c1]" started-at="2024-05-13T13:01:01 IST" name="tearDown" finished-at="2024-05-13T13:01:01 IST" duration-ms="459" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ecommerce.test.TC_03_search_product_select1auto -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

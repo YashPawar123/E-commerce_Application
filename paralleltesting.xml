@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="true" thread-count="5">
+	<listeners><listener class-name="com.ecommerce.utilities.ListenersClass"></listener></listeners>
+	
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.ecommerce.test.TC_04_validationofaddtocart"/>
+      <class name="com.ecommerce.test.TC_02_validationofSearchproduct"/>
+      <class name="com.ecommerce.test.TC_01_LoginPage"/>
+      <class name="com.ecommerce.test.TC_06_validationofaddresspage"/>
+      <class name="com.ecommerce.test.TC_05_proceedtocheckoutpage"/>
+      <class name="com.ecommerce.test.TC_03_search_product_select1auto"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
